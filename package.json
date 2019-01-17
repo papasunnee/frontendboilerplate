@@ -1,7 +1,7 @@
 {
   "name": "altitude-react",
   "version": "1.0.0",
-  "repository": "https://github.com/papasunnee/altitude-react.git",
+  "repository": "https://github.com/papasunnee/frontendboilerplate.git",
   "author": "Adetona Sunday <papasunnee@gmail.com>",
   "license": "MIT",
   "scripts": {
